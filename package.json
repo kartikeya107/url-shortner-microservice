@@ -1,0 +1,15 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "description": "This app gives you a shortened url for your original url",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kartikeya Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.1.18"
+  }
+}
